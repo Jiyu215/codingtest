@@ -1,4 +1,4 @@
-//해시 > 완주하지 못한 선수
+//해시 > 완주하지 못한 선수 
 function solution (participant, completion){
   const map = new Map(); //선수와 선수의 수를 저장
 
